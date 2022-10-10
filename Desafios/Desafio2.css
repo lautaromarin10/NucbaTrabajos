@@ -1,0 +1,65 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: #1b1b1b;
+    color: #005397
+}
+
+
+.title{
+    text-align: center;
+    font-size: 30px;
+    color:blanchedalmond
+}
+
+.DatosPersonales li{
+   
+    display: inline;
+   justify-content: space-between
+   font-size: 75px;
+   padding:10px 10px;
+}
+
+.Contacto h3 {
+  display: inline;
+  justify-content: space-between;
+  padding: 10px 10px;
+  font-size: 30px;
+
+}
+
+.Imagen{
+    height: 600px;
+    width: 600px;
+    border-radius: 20px;
+
+}
+.AdjFoto{
+    text-align: center;
+    font-size: 25px;
+    
+}
+p{
+    font-size: 20px;
+    justify-content: center;
+    display: flex;
+}
+
+form{
+    font-size: 22px;
+
+}
+
+.boton{
+    height: 70px;
+    font-size: 50px;
+    width: 100px;
+    background-color:rgb(14, 74, 85)
+}
+.TituloContacto{
+    font-size: 40px;
+
+}
+.texto{
+    font-size: 24px;
+}
